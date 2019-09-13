@@ -1,0 +1,14 @@
+kyle
+/help
+/info
+/version
+/join hello
+This is a test
+what's up
+/join heyaa
+nice channel
+alright
+I'm leaving
+/join hello
+/part hello
+/die

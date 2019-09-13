@@ -1,0 +1,7 @@
+WELCOME TO MY CHAT APP!
+Your host is {0}
+The running version is {1}
+The server was created on: {2}
+
+
+Please enter your username...
